@@ -110,6 +110,4 @@ User:
 - Frontend: Deploy to Vercel or Netlify
 - Backend: Deploy to Render or Railway
 
-Update this README with your live links if deployed.
-
 ---
