@@ -43,6 +43,12 @@ A full-stack web application for booking and managing home/office cleaning servi
 
 ## 🛠️ Setup Instructions
 
+💻 Demo:
+https://cleaning-service-app-tau.vercel.app/
+
+🛠️ Backend:
+https://cleaning-service-backend.onrender.com
+
 1. Clone the repository:
 
 ```bash
@@ -180,15 +186,3 @@ User:
 - Password: user123
 
 —
-
-## 🌐 Deployment (Optional)
-
-💻 Demo:
-
-https://cleaning-service.vercel.app
-
-🛠️ Backend:
-
-https://cleaning-service-backend.onrender.com
-
----
