@@ -107,8 +107,12 @@ User:
 
 ## 🌐 Deployment (Optional)
 
-- Frontend: Deploy to Vercel or Netlify
-- https://cleaning-service-app-tau.vercel.app/
-- Backend: Deploy to Render or Railway
+💻 Demo:
+
+https://cleaning-service.vercel.app
+
+🛠️ Backend:
+
+https://cleaning-service-backend.onrender.com
 
 ---
