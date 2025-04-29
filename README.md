@@ -162,14 +162,3 @@ User:
 - Completion: Core features completed within the given time
 
 ```
-
-📌 To use it:
-
-- Save the content above into a file named README.md in your project root folder
-- Then push it:
-
-```bash
-git add README.md
-git commit -m "Add final README"
-git push
-```
