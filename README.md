@@ -113,19 +113,3 @@ User:
 Update this README with your live links if deployed.
 
 ---
-
-## 📩 Submission
-
-Please share your GitHub repository link to:
-
-careers@metazync.com  
-Subject: Cleaning Service Submission
-
----
-
-## ✅ Evaluation Criteria
-
-- Code Quality: Clean, readable, and well-structured
-- Functionality: All CRUD features must work correctly
-- UI/UX: Clean, simple, and responsive design
-- Completion: Must complete all core features within the given time
