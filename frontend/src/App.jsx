@@ -13,10 +13,9 @@ function App() {
     <Router>
       <ToastContainer position="top-center" autoClose={3000} />
       <Routes>
-        <Route path="/" element={<Navigate to="/login" />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
-
         {/* Protected route: only logged-in users can access */}
         <Route
           path="/admin-dashboard"
