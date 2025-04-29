@@ -160,5 +160,3 @@ User:
 - Functionality: All CRUD features must work correctly
 - UI/UX: Clean, simple, and responsive design
 - Completion: Core features completed within the given time
-
-```
